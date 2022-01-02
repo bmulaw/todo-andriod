@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <!-- ![Final Demo](http://i.imgur.com/gallery/ZiA1E59.gif) -->
-<img src='./final_demo.gif' title='Video Walkthrough' width='140px' height='180px' alt='Video Walkthrough' />
+<img src='./final_demo.gif' title='Video Walkthrough' width='140px' height='360px' alt='Video Walkthrough' />
 <!-- <blockquote class="imgur-embed-pub" lang="en" data-id="a/ZiA1E59"  ><a href="//imgur.com/a/ZiA1E59">demo on to-do android app</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> -->
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
