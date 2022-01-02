@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-! [](final_demo.gif)
+![Final Demo](http://i.imgur.com/ZiA1E59.gif)
 <!-- <img src='http://i.imgur.com/gallery/ZiA1E59.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 <!-- <blockquote class="imgur-embed-pub" lang="en" data-id="a/ZiA1E59"  ><a href="//imgur.com/a/ZiA1E59">demo on to-do android app</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> -->
 
